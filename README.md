@@ -18,9 +18,9 @@ Pronouns: He/Him
 Location: Komárom-Esztergom, Hungary
 Positions: Mostly backend
 Frameworks: Spring, React
-Languages: Java, Kotlin, CPP, CSHARP,
+Languages: Java, Kotlin, CPP, CSharp,
            JavaScript, TypeScript,
-           PYTHON
+           Python
 Learning: Ruby
 Hobbies: Gaming, Programming
 Twitter: @gabe56f3
