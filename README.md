@@ -32,5 +32,6 @@ Twitter: @gabe56f3
 Discord: Gábe#2678 (681210712915574820)
 ```
 <p align="right">
+<sup><sub><a href = "https://github.com/AnOrdinaryUsername">Shamelessly stolen from AnOrdinaryUsername</a></sub></sup>
   <img alt="#979ea3" src="https://via.placeholder.com/15/979ea3/000000?text=+" width="25" height="20" /><img alt="#423737" src="https://via.placeholder.com/15/423737/000000?text=+" width="25" height="20" /><img alt="#60272e" src="https://via.placeholder.com/15/60272e/000000?text=+" width="25" height="20" /><img alt="#bf9c8f" src="https://via.placeholder.com/15/bf9c8f/000000?text=+" width="25" height="20" /><img alt="#4b3d33" src="https://via.placeholder.com/15/4b3d33/000000?text=+" width="25" height="20" />
 </p>
