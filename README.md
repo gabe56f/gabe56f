@@ -1,12 +1,7 @@
 ```diff
 PS C:\Users\gabe56f> neofetch
-- neofetch : The term 'neofetch' is not recognized as the name of a cmdlet, function, script file, or operable program.
+- neofetch: The term 'neofetch' is not recognized as a name of a cmdlet, function, script file, or executable program.
 - Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
-- At line:1 char:1
-- + neofetch
-- + ~~~~~~~~
--     + CategoryInfo          : ObjectNotFound: (neofetch:String) [], CommandNotFoundException
--     + FullyQualifiedErrorId : CommandNotFoundException
 PS C:\Users\gabe56f> Invoke-WebRequest "https://raw.githubusercontent.com/lptstr/winfetch/master/winfetch.ps1" `
 >> -OutFile winfetch.ps1 -UseBasicParsing
 PS C:\Users\gabe56f> ./winfetch.ps1
@@ -18,7 +13,7 @@ PS C:\Users\gabe56f> ./winfetch.ps1
 gabe56f@github
 -------------------------
 OS: Windows 11 Pro [64-bit]
-Shell: PowerShell v5.1.22000.65
+Shell: PowerShell v7.2.0-preview.9
 Pronouns: He/Him
 Location: Komárom-Esztergom, Hungary
 Positions: Mostly backend
