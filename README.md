@@ -1,7 +1,7 @@
 ```diff
 PS C:\Users\gabe56f> neofetch
-- neofetch : The term 'neofetch' is not recognized as the name of a cmdlet, function, script file, or operable program. C
-- heck the spelling of the name, or if a path was included, verify that the path is correct and try again.
+- neofetch : The term 'neofetch' is not recognized as the name of a cmdlet, function, script file, or operable program.
+- Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
 - At line:1 char:1
 - + neofetch
 - + ~~~~~~~~
