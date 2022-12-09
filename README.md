@@ -7,7 +7,7 @@ PS C:\Users\gabe56f> Invoke-WebRequest "https://raw.githubusercontent.com/lptstr
 PS C:\Users\gabe56f> ./winfetch.ps1
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/799725280381108234/892083552659845221/unknown.png" alt="A picture of my cat" width="320" /> 
+<img align="left" src="https://media.discordapp.net/attachments/689783371068342342/749620216501108746/20200830_152126.jpg" alt="A picture of my cat" width="320" /> 
 
 ```yaml
 gabe56f@github
@@ -28,5 +28,5 @@ Discord: Gábe#2678 (681210712915574820)
 ```
 <p align="right">
 <sup><sub><a href = "https://github.com/AnOrdinaryUsername">Shamelessly stolen from AnOrdinaryUsername</a></sub></sup>
-  <img alt="#979ea3" src="https://via.placeholder.com/15/979ea3/000000?text=+" width="25" height="20" /><img alt="#423737" src="https://via.placeholder.com/15/423737/000000?text=+" width="25" height="20" /><img alt="#60272e" src="https://via.placeholder.com/15/60272e/000000?text=+" width="25" height="20" /><img alt="#bf9c8f" src="https://via.placeholder.com/15/bf9c8f/000000?text=+" width="25" height="20" /><img alt="#4b3d33" src="https://via.placeholder.com/15/4b3d33/000000?text=+" width="25" height="20" />
+  <img alt="#979ea3" src="https://placehold.co/15x15/979ea3/979ea3.png" width="15" height="15" /><img alt="#423737" src="https://placehold.co/15x15/423737/423737.png" width="15" height="15" /><img alt="#60272e" src="https://placehold.co/15x15/60272e/60272e.png" width="15" height="15" /><img alt="#bf9c8f" src="https://placehold.co/15x15/bf9c8f/bf9c8f.png" width="15" height="15" /><img alt="#4b3d33" src="https://placehold.co/15x15/4b3d33/4b3d33.png" width="15" height="15" />
 </p>
