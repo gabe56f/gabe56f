@@ -7,7 +7,7 @@ PS C:\Users\gabe56f> Invoke-WebRequest "https://raw.githubusercontent.com/lptstr
 PS C:\Users\gabe56f> ./winfetch.ps1
 ```
 
-<img align="left" src="https://media.discordapp.net/attachments/689783371068342342/749620216501108746/20200830_152126.jpg" alt="A picture of my cat" width="320" /> 
+<img align="left" src="https://raw.githubusercontent.com/gabe56f/gabe56f/main/image.jpg" alt="A picture of my cat" width="320" /> 
 
 ```yaml
 gabe56f@github
